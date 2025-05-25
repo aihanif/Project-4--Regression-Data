@@ -1,7 +1,7 @@
 # Project-4--Regression-Data
 
 Description
-- The regression model is a supervise learning. this model used for prediction for countinuos value based on corelation features.
+- The regression model is a supervise learning. this model used for prediction for continuous value based on correlation features.
 - In this case, the model is designed to predict the Total Annotations added by a user. This feature is well-suited for regression, as it involves estimating a numerical outcome based on correlated input variables.
 
 Objective
